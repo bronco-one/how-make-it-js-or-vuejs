@@ -1,1 +1,1 @@
-# how-make-it-js-or-vuejs
+# how make it in javascrip or vuejs
