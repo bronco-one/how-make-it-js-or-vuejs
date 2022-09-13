@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Vast+Shadow&display=swap');
+body {
+    display: flex;
+    font-family: 'Vast Shadow', cursive;
+    font-size: 27px;
+    background-image: url("pexels-steve-johnson-1509534.jpg");
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    /*
+    //Photo by Steve Johnson: https://www.pexels.com/photo/multicolored-abstract-painting-1509534/
+    */
+}
