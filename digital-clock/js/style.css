@@ -1,15 +1,49 @@
-@import url('https://fonts.googleapis.com/css2?family=Vast+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;700&family=Vast+Shadow&display=swap');
 body {
+    height: 100vh;
     display: flex;
-    font-family: 'Vast Shadow', cursive;
-    font-size: 42px;
-    background-image: url("pexels-steve-johnson-1509534.jpg");
+    flex-direction: column;
+    font-family: 'Chakra Petch', sans-serif;
+    background-image: url("pexels-engin-akyurt-1435752.jpg");
     background-size: cover;
     align-items: center;
+    margin-top: 50px;
+    font-weight: 800;
+    /*
+    Photo by Engin Akyurt: https://www.pexels.com/photo/close-up-photo-of-blue-body-of-water-1435752/
+    */
+}
+
+h1 {
+    font-size: 62px;
+    text-align: center;
     justify-content: center;
     color: #fff;
-    /*
-    //Photo by Steve Johnson: https://www.pexels.com/photo/multicolored-abstract-painting-1509534/
-    */
-    opacity: .7;
+    opacity: .9;
+}
+
+.clock {
+    font-size: 50px;
+    color: #fff;
+    display: flex;
+}
+
+p {
+    margin: 15px;
+    display: flex;
+    background-color: rgba(0, 131, 165, 0.9);
+    height: 90px;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 7px;
+    font-weight: 700;
+}
+
+.mode p {
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    font-size: 20px;
 }
