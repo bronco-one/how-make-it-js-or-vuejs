@@ -28,7 +28,7 @@ h1 {
     display: flex;
 }
 
-p {
+.clock p {
     margin: 15px;
     display: flex;
     background-color: rgba(0, 131, 165, 0.9);
