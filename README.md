@@ -3,6 +3,6 @@
 List:
 
 1. Digital Clock:
-    - js
+    -js
     -vue 
 2.     
