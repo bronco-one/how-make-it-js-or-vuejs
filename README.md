@@ -2,4 +2,7 @@
 
 List:
 
-1. Digital Clock.
+1. Digital Clock:
+    - js
+    -vue 
+2.     
